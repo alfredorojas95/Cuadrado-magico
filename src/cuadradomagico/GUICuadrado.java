@@ -312,7 +312,6 @@ public class GUICuadrado extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        //met.limpiar();
        test_cuadrado.main(null);
         this.setVisible(false);
     }//GEN-LAST:event_jButton2ActionPerformed

@@ -78,18 +78,4 @@ public class Metodos {
         }
         return suma15;
     }
-
-//    public void limpiar() {
-////      cambia los valores de los textfield a "" con el boton "limpiar"
-//        GUICuadrado.text1.setText("");
-//        GUICuadrado.text2.setText("");
-//        GUICuadrado.text3.setText("");
-//        GUICuadrado.text4.setText("");
-//        GUICuadrado.text5.setText("");
-//        GUICuadrado.text6.setText("");
-//        GUICuadrado.text7.setText("");
-//        GUICuadrado.text8.setText("");
-//        GUICuadrado.text9.setText("");
-//        matriz=null;
-//    }
 }
